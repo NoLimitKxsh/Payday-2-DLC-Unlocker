@@ -1,1 +1,13 @@
-
+{
+    "name": "NoLimitKxsh Gave All DLC",
+    "description": "All Downloadable Content",
+    "author": "NoLimitKxsh",
+    "version": "v1.0.0",
+    
+    "hooks": [
+    {
+        "hook_id": "lib/managers/dlcmanager",
+        "script_path": "dlc-unlocker.lua"
+    }
+    ]
+}
